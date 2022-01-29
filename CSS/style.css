@@ -1,4 +1,3 @@
-/* Navigation styles */
 .navigation {
     height: 80px;
     background-color: #C18076;
@@ -21,7 +20,6 @@
 }
 
 
-/* Hero Image styles */
 .heroImg{
     height: 650px;
     padding: 80px;
@@ -53,8 +51,6 @@ button {
     cursor: pointer;
 }
 
-
-/* Footer styles */
 footer {
     background-color: #F5E8E4;
     padding: 35px;
